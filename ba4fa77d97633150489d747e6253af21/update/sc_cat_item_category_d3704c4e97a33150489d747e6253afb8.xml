@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Teste">4cfcb7b997a33150489d747e6253af51</sc_cat_item>
+        <sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-06 13:06:16</sys_created_on>
+        <sys_id>d3704c4e97a33150489d747e6253afb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.Teste</sys_name>
+        <sys_package display_value="NowPro - Teste" source="x_1173448_nowpro_0">ba4fa77d97633150489d747e6253af21</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowPro - Teste">ba4fa77d97633150489d747e6253af21</sys_scope>
+        <sys_update_name>sc_cat_item_category_d3704c4e97a33150489d747e6253afb8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-06 13:06:16</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

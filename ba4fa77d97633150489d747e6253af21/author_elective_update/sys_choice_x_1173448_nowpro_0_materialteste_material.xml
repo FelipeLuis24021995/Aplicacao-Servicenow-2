@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="material" table="x_1173448_nowpro_0_materialteste" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>material</element>
+            <name>x_1173448_nowpro_0_materialteste</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-06 13:20:46</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>material</sys_name>
+            <sys_package display_value="NowPro - Teste" source="x_1173448_nowpro_0">ba4fa77d97633150489d747e6253af21</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NowPro - Teste">ba4fa77d97633150489d747e6253af21</sys_scope>
+            <sys_update_name>sys_choice_x_1173448_nowpro_0_materialteste_material</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-06 13:20:46</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>material</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lápis</label>
+            <language>en</language>
+            <name>x_1173448_nowpro_0_materialteste</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-06 13:20:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7bc3cc0297e33150489d747e6253af5e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-06 13:20:46</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>material</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Caneta</label>
+            <language>en</language>
+            <name>x_1173448_nowpro_0_materialteste</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-06 13:20:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3fc3cc0297e33150489d747e6253af61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-06 13:20:46</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>material</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Borracha</label>
+            <language>en</language>
+            <name>x_1173448_nowpro_0_materialteste</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-06 13:20:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ffc3cc0297e33150489d747e6253af63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-06 13:20:46</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

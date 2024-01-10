@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Teste">4cfcb7b997a33150489d747e6253af51</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-06 13:05:45</sys_created_on>
+        <sys_id>eb50c84e97a33150489d747e6253afb0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Teste.Any User</sys_name>
+        <sys_package display_value="NowPro - Teste" source="x_1173448_nowpro_0">ba4fa77d97633150489d747e6253af21</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowPro - Teste">ba4fa77d97633150489d747e6253af21</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_eb50c84e97a33150489d747e6253afb0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-06 13:05:45</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NowPro - Teste">ba4fa77d97633150489d747e6253af21</application>
+        <file_path/>
+        <instance_id>75ed3991db8bff400ae3ac44d4961901</instance_id>
+        <instance_name>dev90474</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_eb50c84e97a33150489d747e6253afb0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Teste">4cfcb7b997a33150489d747e6253af51</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-06 13:05:45</sys_created_on><sys_id>eb50c84e97a33150489d747e6253afb0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Teste.Any User</sys_name><sys_package display_value="NowPro - Teste" source="x_1173448_nowpro_0">ba4fa77d97633150489d747e6253af21</sys_package><sys_policy/><sys_scope display_value="NowPro - Teste">ba4fa77d97633150489d747e6253af21</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_eb50c84e97a33150489d747e6253afb0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-06 13:05:45</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>1457981719</payload_hash>
+        <record_name>Teste.Any User</record_name>
+        <reverted_from/>
+        <source>be4fa77d97633150489d747e6253af23</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-06 13:05:45</sys_created_on>
+        <sys_id>ab50c84e97a33150489d747e6253afb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18cdee120770000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-06 13:05:45</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>2350c84e04a33150c3b6f9e444ea25b4</update_guid>
+        <update_guid_history>2350c84e04a33150c3b6f9e444ea25b4:1457981719</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Teste.Any User">d7704c4e97a33150489d747e6253afc8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-06 13:06:16</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>0836ef6a8e874220822796342f304400</sys_id>
+        <sys_metadata>eb50c84e97a33150489d747e6253afb0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Teste.Any User</sys_name>
+        <sys_package display_value="NowPro - Teste" source="x_1173448_nowpro_0">ba4fa77d97633150489d747e6253af21</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NowPro - Teste">ba4fa77d97633150489d747e6253af21</sys_scope>
+        <sys_scope_delete display_value="">19200d6f06a545ae99730aeee4b74ab9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_eb50c84e97a33150489d747e6253afb0</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_eb50c84e97a33150489d747e6253afb0">ab50c84e97a33150489d747e6253afb4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-06 13:06:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f901bfbd97633150489d747e6253af7d" extends="task" label="MaterialTeste" max_length="40" name="x_1173448_nowpro_0_materialteste" type="collection">
+        <element label="Email" max_length="250" name="email" type="string"/>
+        <element choice="1" label="Material" max_length="40" name="material" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Lápis" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Caneta" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Borracha" sequence="2" value="3"/>
+            </choice>
+        </element>
+        <element label="Quantidade" max_length="40" name="quantidade" type="integer"/>
+        <element label="Solicitante" max_length="32" name="solicitante" reference="sys_user" type="reference"/>
+    </element>
+</database>

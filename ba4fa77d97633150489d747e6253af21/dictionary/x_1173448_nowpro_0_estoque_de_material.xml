@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="85cd2f3a97af7110489d747e6253afa2" label="Estoque de material" max_length="40" name="x_1173448_nowpro_0_estoque_de_material" type="collection">
+        <element label="Material" max_length="32" name="material" reference="x_1173448_nowpro_0_materialteste" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Quantidade" max_length="40" name="quantidade" type="integer"/>
+        <element label="Solicitante" max_length="32" name="solicitante" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="material"/>
+        </index>
+        <index name="index2">
+            <element name="solicitante"/>
+        </index>
+    </element>
+</database>
